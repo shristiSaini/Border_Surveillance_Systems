@@ -1,0 +1,11 @@
+patch_id,category,label,label_text,date_t1,date_t2,description,t1_filename,t2_filename
+P01,action,1,CHANGE,2026-03-20,2026-04-11,New road construction along northern ridge,P01_T1_2026-03-20.png,P01_T2_2026-04-11.png
+P02,action,1,CHANGE,2026-03-20,2026-04-11,Building cluster expansion — 6 new structures,P02_T1_2026-03-20.png,P02_T2_2026-04-11.png
+P03,action,1,CHANGE,2026-03-20,2026-04-11,Vegetation clearing — 155x125 px patch removed,P03_T1_2026-03-20.png,P03_T2_2026-04-11.png
+P04,action,1,CHANGE,2026-03-20,2026-04-11,Vehicle staging area appears in T2,P04_T1_2026-03-20.png,P04_T2_2026-04-11.png
+P05,baseline,0,NO CHANGE,2026-03-20,2026-04-11,Stable agricultural terraces — no change,P05_T1_2026-03-20.png,P05_T2_2026-04-11.png
+P06,baseline,0,NO CHANGE,2026-03-20,2026-04-11,Urban residential block — no structural change,P06_T1_2026-03-20.png,P06_T2_2026-04-11.png
+P07,baseline,0,NO CHANGE,2026-03-20,2026-04-11,Rocky hillside — stable geology,P07_T1_2026-03-20.png,P07_T2_2026-04-11.png
+P08,baseline,0,NO CHANGE,2026-03-20,2026-04-11,"Valley floor — no change, minor illumination delta",P08_T1_2026-03-20.png,P08_T2_2026-04-11.png
+P09,tricky,0,NO CHANGE,2026-03-20,2026-04-11,Partial cloud cover in T2 — no ground change,P09_T1_2026-03-20.png,P09_T2_2026-04-11.png
+P10,tricky,0,NO CHANGE,2026-03-20,2026-04-11,"Solar angle shift — diagonal shadow band, no structure change",P10_T1_2026-03-20.png,P10_T2_2026-04-11.png

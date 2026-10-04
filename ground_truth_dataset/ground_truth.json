@@ -1,0 +1,123 @@
+{
+  "project": "Border Surveillance System",
+  "region": "Kabul Border",
+  "coords": {
+    "lat": 34.52,
+    "lon": 69.18
+  },
+  "satellite": "Sentinel-2 (Optical - MSI)",
+  "resolution": "10 m/px",
+  "patch_size": 512,
+  "pairs": [
+    {
+      "patch_id": "P01",
+      "category": "action",
+      "label": 1,
+      "label_text": "CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "New road construction along northern ridge",
+      "t1_filename": "P01_T1_2026-03-20.png",
+      "t2_filename": "P01_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P02",
+      "category": "action",
+      "label": 1,
+      "label_text": "CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Building cluster expansion \u2014 6 new structures",
+      "t1_filename": "P02_T1_2026-03-20.png",
+      "t2_filename": "P02_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P03",
+      "category": "action",
+      "label": 1,
+      "label_text": "CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Vegetation clearing \u2014 155x125 px patch removed",
+      "t1_filename": "P03_T1_2026-03-20.png",
+      "t2_filename": "P03_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P04",
+      "category": "action",
+      "label": 1,
+      "label_text": "CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Vehicle staging area appears in T2",
+      "t1_filename": "P04_T1_2026-03-20.png",
+      "t2_filename": "P04_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P05",
+      "category": "baseline",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Stable agricultural terraces \u2014 no change",
+      "t1_filename": "P05_T1_2026-03-20.png",
+      "t2_filename": "P05_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P06",
+      "category": "baseline",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Urban residential block \u2014 no structural change",
+      "t1_filename": "P06_T1_2026-03-20.png",
+      "t2_filename": "P06_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P07",
+      "category": "baseline",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Rocky hillside \u2014 stable geology",
+      "t1_filename": "P07_T1_2026-03-20.png",
+      "t2_filename": "P07_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P08",
+      "category": "baseline",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Valley floor \u2014 no change, minor illumination delta",
+      "t1_filename": "P08_T1_2026-03-20.png",
+      "t2_filename": "P08_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P09",
+      "category": "tricky",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Partial cloud cover in T2 \u2014 no ground change",
+      "t1_filename": "P09_T1_2026-03-20.png",
+      "t2_filename": "P09_T2_2026-04-11.png"
+    },
+    {
+      "patch_id": "P10",
+      "category": "tricky",
+      "label": 0,
+      "label_text": "NO CHANGE",
+      "date_t1": "2026-03-20",
+      "date_t2": "2026-04-11",
+      "description": "Solar angle shift \u2014 diagonal shadow band, no structure change",
+      "t1_filename": "P10_T1_2026-03-20.png",
+      "t2_filename": "P10_T2_2026-04-11.png"
+    }
+  ]
+}
